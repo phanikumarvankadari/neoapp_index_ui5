@@ -3,3 +3,4 @@ sap.ui.define(['sap/m/Text'], function(Text) {
         text: "OpenUI5 is loaded successfully!"
     }).placeAt("content");
 });
+
